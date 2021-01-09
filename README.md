@@ -22,7 +22,7 @@
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
   * [Analysis](#analysis)
-  * [Implementation](#impelementation)
+  * [Implementation](#implementation)
 * [Usage](#to-run)
 * [Contributing](#contributing)
 * [Contact](#contact)
