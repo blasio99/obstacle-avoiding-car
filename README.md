@@ -66,7 +66,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Benedek Balazs - [LinkedIn profile - ME](https://www.linkedin.com/in/balazs-benedek-009322183/) - benedekbalazs1999@gmail.com
+Benedek Balazs - [LinkedIn profile - ME](https://www.linkedin.com/in/benedek-balazs/) - benedekbalazs1999@gmail.com
 
 Project Link: [GitHub - blasio99 - Obstacle Avoiding Robot Car](https://github.com/blasio99/obstacle-avoiding-car)
 
